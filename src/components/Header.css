@@ -1,6 +1,6 @@
 .App-Header-Row{
-    display:flex;
+    display: flex;
     justify-content: space-between;
-    background-color: bisque;
+    background-color: lightblue;
     padding: 5px;
 }
